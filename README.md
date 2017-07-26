@@ -2,4 +2,4 @@
 Ruby Web Scraper
 
 
-Download a csv file for your input.
+Uses input.csv to read in input to add to the url.
